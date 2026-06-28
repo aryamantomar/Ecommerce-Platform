@@ -76,7 +76,7 @@ footer{
     margin-top: 50px;
 }
 .product-card{
-    background-color: white;
+    background-color: whitesmoke;
     border-radius: 10px;
     padding: 15px;
     text-align: center;
@@ -101,7 +101,7 @@ footer{
     font-size: 18px;
 }
 .product-card .price{
-    color: #2563eb;
+    color: red;
 
     font-size: 22px;
 
@@ -124,16 +124,16 @@ footer{
 
     border-radius: 5px;
 
-    background-color: #2563eb;
+    background-color: gold;
 
-    color: white;
+    color: black;
 
     cursor: pointer;
 
     font-size: 16px;
 }
 .product-card button:hover{
-    background-color: #1d4ed8;
+    background-color: coral;
 }
 @media(max-width:992px){
 
@@ -168,7 +168,7 @@ footer{
 
 }
 .cart{
-    color:white;
+    color: black;
     text-decoration:none;
     font-weight:bold;
 }

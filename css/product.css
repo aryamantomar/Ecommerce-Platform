@@ -8,8 +8,8 @@ body{
     background:#f5f5f5;
 }
 header{
-    background:#2563eb;
-    color:white;
+    background: antiquewhite;
+    color:black;
 
     display:flex;
     justify-content:space-between;
@@ -18,7 +18,7 @@ header{
     padding:20px 50px;
 }
 header a{
-    color:white;
+    color:black;
     text-decoration:none;
 }
 #product-details{
@@ -68,9 +68,9 @@ button{
 
     padding:12px 20px;
 
-    background:#2563eb;
+    background: antiquewhite;
 
-    color:white;
+    color:black;
 
     border:none;
 

@@ -10,8 +10,8 @@ body{
 }
 
 header{
-    background:#2563eb;
-    color:white;
+    background: antiquewhite;
+    color:black;
     display:flex;
     justify-content:space-between;
     align-items:center;
@@ -19,7 +19,7 @@ header{
 }
 
 header a{
-    color:white;
+    color:black;
     text-decoration:none;
 }
 

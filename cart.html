@@ -2,9 +2,34 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping Cart</title>
+
+    <link rel="stylesheet" href="css/cart.css">
 </head>
 <body>
+
+<header>
+    <h1>Shopping Cart</h1>
+
+    <a href="index.html">← Continue Shopping</a>
+</header>
+
+<main>
+
+    <div id="cart-items"></div>
+
+    <div id="bill-summary">
+        <h2>Bill Summary</h2>
+
+        <p>Total Items: <span id="total-items">0</span></p>
+
+        <p>Total Price: $<span id="total-price">0</span></p>
+    </div>
+
+</main>
+
+<script src="js/cart.js"></script>
 
 </body>
 </html>

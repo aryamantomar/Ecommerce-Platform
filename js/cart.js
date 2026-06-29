@@ -64,5 +64,4 @@ function removeFromCart(id) {
     loadCart();
 }
 
-// Load the cart when the page opens
 loadCart();
